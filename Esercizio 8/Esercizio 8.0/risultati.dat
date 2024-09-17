@@ -1,0 +1,20 @@
+Risultato con precisione N = 10 
+2.00824840791
+Differenza con valore noto: 0.00824840790797
+
+Risultato con precisione N = 100 
+2.00008224907
+Differenza con valore noto: 8.22490709864e-05
+
+Risultato con precisione N = 1000 
+2.00000328987
+Differenza con valore noto: 3.28987192111e-06
+
+Risultato con precisione N = 2000 
+2.00000082247
+Differenza con valore noto: 8.22467267625e-07
+
+Risultato con precisione N = 10000
+2.00000000822
+Differenza con valore noto: 8.22467605133e-09
+

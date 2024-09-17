@@ -1,0 +1,42 @@
+
+risultati con N = 100 (Metodo Media) 
+valore: 1.99989
+deviazione standard: 0.0964892
+risultati con N = 100 (Metodo HoM) 
+valore: 2.00126
+deviazione standard: 0.16996
+
+
+risultati con N = 500 (Metodo Media)
+valore: 2.00099
+deviazione standard: 0.0436571
+risultati con N = 500 (Metodo HoM)
+valore: 1.9993
+deviazione standard: 0.0757942
+
+
+risultati con N = 1000 (Metodo Media) 
+valore: 2.00009
+deviazione standard: 0.0308617
+risultati con N = 1000 (Metodo HoM) 
+valore: 2.00015
+deviazione standard: 0.0540178
+
+
+risultati con N = 5000 (Metodo Media) 
+valore: 2.00008
+deviazione standard: 0.0136661
+risultati con N = 5000 (Metodo HoM) 
+valore: 2.00036
+deviazione standard: 0.0240673
+
+
+risultati con N = 10000 (Metodo Media) 
+valore: 2.00002
+deviazione standard: 0.00962614
+risultati con N = 10000 (Metodo HoM) 
+valore: 1.99998
+deviazione standard: 0.0171108
+
+Punti che sarebbero necessari per avere sigma = 0.001(Metodo AVE) :926625
+Punti che sarebbero necessari per avere sigma = 0.001(Metodo HoM): 2927811

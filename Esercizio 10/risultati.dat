@@ -1,0 +1,45 @@
+Risultati finali : 
+
+Angoli
+θ0: 1.5708
+σ: 0.0003
+
+θ1: 2.6567
+σ: 0.0003
+
+θ2: 2.6567
+σ: 0.0003
+
+
+Angoli di deviazione minima:
+dm1: 0.97860
+σ: 0.00043
+Differenza dal valore reale: 0.00092
+
+dm2: 1.08594
+σ: 0.00043
+Differenza dal valore reale: 0.00032
+coefficiente di correlazione dm1 e dm2: 50%
+
+
+Indici di rifrazione:
+N1: 1.69674
+σ: 0.00023
+Differenza dal valore reale: -0.00049
+
+N2: 1.75110
+σ: 0.00021
+Differenza dal valore reale: -0.00015
+coefficiente di correlazione N1 e N2: 50%
+
+
+Parametri A/B:
+A: 2.70002
+σ: 0.00131
+
+B: 59997
+σ: 240
+coefficiente di correlazione A e B: -87%
+
+
+
